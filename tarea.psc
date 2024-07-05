@@ -1,4 +1,5 @@
 Algoritmo cambio_de_moneda
+	
 	escribir "ingrese moneda fuente: (USD,EUR,GBP,AUD)"
 	leer moneda_fuente
 	escribir "modena destino: (USD,EUR,GBO,AUD)"
