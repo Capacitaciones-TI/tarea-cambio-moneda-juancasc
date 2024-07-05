@@ -5,6 +5,7 @@ Algoritmo cambio_de_moneda
 	leer moneda_destino
 	escribir "Ingrese cantidad de moneda: "
 	leer cantidad
+	
 	si moneda_fuente es "USD" y moneda_destino es "EUR" entonces
 		resultado <- cantidad * 0.93
 		escribir "la cantidad en :", moneda_destino, "es" resultado
